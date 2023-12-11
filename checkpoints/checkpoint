@@ -1,0 +1,2 @@
+model_checkpoint_path: "RATCHETESP.tf"
+all_model_checkpoint_paths: "RATCHETESP.tf"
